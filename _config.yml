@@ -1,8 +1,6 @@
-# Theme Settings
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast"
 
-# Site Settings
 locale: "en-US"
 title: "John Cahill"
 title_separator: "-"
@@ -18,7 +16,6 @@ words_per_minute: 200
 enable_copy_code_button: true
 copyright: "John Cahill"
 
-# Social Sharing Links
 social:
   type: Person
   name: "John Cahill"
@@ -26,16 +23,15 @@ social:
     - https://www.linkedin.com/in/johncahill4493/
     - https://github.com/JackCahill24
 
-# Site Author Profile Sidebar
 author:
   name: "John Cahill"
-  bio: "Robotics M.S. student at the University of Delaware. Hands-on experience developing autonomous navigation stacks, programming multi-DOF robotic arms, and designing custom mechatronic hardware[cite: 1]."
-  location: "Stony Point, NY"[cite: 1]
-  email: "johncahill4493@gmail.com"[cite: 1]
+  bio: "Robotics M.S. student at the University of Delaware. Hands-on experience developing autonomous navigation stacks, programming multi-DOF robotic arms, and designing custom mechatronic hardware."
+  location: "Stony Point, NY"
+  email: "johncahill4493@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:johncahill4493@gmail.com"[cite: 1]
+      url: "mailto:johncahill4493@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/johncahill4493/"
@@ -43,7 +39,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JackCahill24"
 
-# Site Footer Links
 footer:
   links:
     - label: "LinkedIn"
@@ -54,7 +49,6 @@ footer:
       url: "https://github.com/JackCahill24"
   since: "2026"
 
-# Build configuration rules
 include:
   - .htaccess
   - _pages
@@ -75,7 +69,6 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-# Markdown Compiler Engine
 markdown: kramdown
 highlighter: rouge
 lsi: false
