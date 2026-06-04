@@ -1,8 +1,10 @@
-# main navigation links
+# main navigation links at the top of the webpage
 main:
+  - title: "About Me"
+    url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "Work Experience"
+    url: /experience/
   - title: "Resume"
     url: /resume/
-  - title: "About"
-    url: /about/
