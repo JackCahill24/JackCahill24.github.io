@@ -62,11 +62,11 @@ analytics:
 
 # Site Author
 author:
-  name               : "John Cahill"
-  avatar             : # We can add a profile photo path later
-  bio                : "Robotics M.S. student at the University of Delaware. Hands-on experience developing autonomous navigation stacks, programming multi-DOF robotic arms, and designing custom mechatronic hardware[cite: 1]."
-  location           : "Stony Point, NY"[cite: 1]
-  email              : "johncahill4493@gmail.com"[cite: 1]
+  name                 : "John Cahill"
+  avatar               : # We can add a profile photo path later
+  bio                  : "Robotics M.S. student at the University of Delaware. Hands-on experience developing autonomous navigation stacks, programming multi-DOF robotic arms, and designing custom mechatronic hardware[cite: 1]."
+  location             : "Stony Point, NY"[cite: 1]
+  email                : "johncahill4493@gmail.com"[cite: 1]
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
