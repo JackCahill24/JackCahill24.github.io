@@ -65,6 +65,8 @@ exclude:
   - package-lock.json
   - vendor/bundle/
   - docs/
+  - CHANGELOG.md
+  - README.md
 keep_files:
   - .git
 encoding: "utf-8"
