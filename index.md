@@ -12,14 +12,14 @@ I am passionate about solving technical problems that combine hardware, software
 
 ---
 
-### Navigating My Work
+## Navigating My Work
 
-This space acts as a central repository for my academic engineering projects, research milestones, and professional updates.
+This site serves as a central portfolio for my robotics research, engineering design projects, professional experience, and technical background.
 
-* **[About Me](/about/):** Further details regarding my academic path, long-term technical trajectory, and collaborative team environments.
-* **[Projects Gallery](/projects/):** Detailed breakdowns of my robotic implementations, covering kinematic modeling, software algorithms, and system integrations.
-* **[Work Experience](/experience/):** A chronological look at my roles within active research laboratories, civil infrastructure environments, and industrial power systems engineering firms.
-* **[Professional Resume](/resume/):** A digital snapshot of my academic credentials alongside a direct link to download a traditional 1-page PDF copy.
+* **[About Me](/about/):** More about my academic path, robotics interests, engineering background, and long-term technical goals.
+* **[Projects Gallery](/projects/):** Detailed breakdowns of my hands-on engineering and robotics projects, including robotic manipulation, tactile sensing, autonomous navigation, UAS testing, and automated manufacturing systems.
+* **[Work Experience](/experience/):** A chronological overview of my roles in robotics research, civil infrastructure engineering, and critical power systems/data center environments.
+* **[Professional Resume](/resume/):** A brief resume summary with a downloadable PDF version of my current engineering resume.
 
 ---
 

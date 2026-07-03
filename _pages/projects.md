@@ -5,7 +5,7 @@ permalink: /projects/
 classes: wide
 ---
 
-A selection of robotics software packages, mechatronic prototypes, and automated systems developed throughout my academic and research career, emphasizing the intersection of physical design and software implementation.
+A selection of robotics software packages, mechatronic prototypes, and automated systems developed throughout my academic and research career, emphasizing the intersection of physical design and software implementation. Click each project title for an in-depth walkthrough of the specific project.
 
 ---
 
