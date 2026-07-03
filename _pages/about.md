@@ -2,29 +2,27 @@
 layout: single
 title: "About Me"
 permalink: /about/
-sidebar:
-  nav: "main"
+classes: wide
 ---
 
-![John Cahill Portfolio Profile](/assets/images/placeholder-profile.jpg){: .align-right width="250px"}
+### General Summary
 
-### Professional Summary
-I am an engineer driven by the challenge of bridging the gap between physical mechatronic hardware and intelligent control algorithms. Having graduated from the Honors College at the University of Delaware with a Bachelor of Science in Mechanical Engineering and a Minor in Mathematics, I am currently continuing my specialization as a Master of Science student in Robotics. 
+I am a Robotics M.S. student at the University of Delaware, where I also completed my Honors B.S. in Mechanical Engineering with a minor in Mathematics. 
 
-My engineering philosophy centers on physical intuition: understanding the core mechanics of a system allows for the development of significantly more robust, deterministic, and high-performance software control loops.
+My engineering background bridges the gap between hardware and software. Through advanced coursework, laboratory research, and end-to-end project deployments, I have developed a strong foundation in mechatronic design, embedded systems, control loops, and middleware architectures. I enjoy adapting to new software tools, engaging in hands-on mechanical design, and applying mathematical concepts to solve complex, real-world physical challenges.
 
-### Technical Trajectory & Goals
-My long-term career objectives center on pushing the boundaries of autonomous deployment in challenging environments. Core areas of technical interest include:
-
-* **Dynamic Locomotion & Perception:** Implementing multi-modal sensor fusion models to give legged systems acute environmental awareness and adaptive traction control.
-* **Redundant Manipulation:** Designing intelligent inverse kinematics engines using Jacobian null-space projection for real-world manufacturing and obstacle avoidance tasks.
-* **Mechatronic Optimization:** Utilizing structural finite element analysis (FEA) and computational fluid dynamics (CFD) to design high-efficiency, lightweight robotic components.
+![John Cahill Professional Headshot](/assets/images/professional_headshot.jpg){: .align-center width="450px"}
 
 ---
 
-### Leadership & Interests Outside the Lab
-I believe that exceptional engineering requires exceptional teamwork, communication, and resilience under pressure. I actively hone these traits through competitive athletics and hands-on club integration:
+### Engineering & Career Objectives
 
-* **Division 1-AA Rugby Player Leader:** Competing at a high level within the University of Delaware's Rugby organization (August 2023 - Present), managing group coordination, field strategy, and peer accountability.
-* **Formula SAE Racing Team Member:** Participated as a core teammate within UD's racing division (August 2022 - May 2024), analyzing mechanical system setups and contributing to physical automotive prototype build groups.
-* **Tau Beta Pi Engineering Honor Society:** Elected member (September 2023 - Present), collaborating on engineering outreach, academic excellence panels, and professional community engagement.
+My career objective is to design, develop, and deploy intelligent mechatronic systems by operating directly at the intersection of hardware and software. Rather than treating physical architectures and software stacks as isolated disciplines, I focus on bridging the gap between them—combining robust mechanical prototyping with the high-level logic and low-level firmware required to bring autonomous systems to life. 
+
+I am focused on roles within the robotics, automation, and mechanical engineering industries where I can apply my experience in both physical development and advanced software engineering. My technical interests are rooted in taking complex systems from concept to reality, which includes:
+
+* **Middleware Architectures & Distributed Systems:** Developing distributed applications within the ROS 2 framework. I am experienced with SLAM, writing custom C++ and Python nodes for system logic and control loops, and deploying autonomous frameworks onto physical mobile hardware.
+* **Embedded Systems, Programming, & Sensing:** Writing low-level C/C++ and Python firmware for microcontrollers (ESP32, Arduino, OpenCR). Experienced in implementing communication protocols (I<sup>2</sup>C, UDP, serial) to resolve hardware limits and stream raw sensor data into high-level processing stacks.
+* **Mechanical Design, Automation, & Testing:** Designing, simulating, and validating mechatronic systems using CAD, FEA, and rapid prototyping. This includes building structured control logic state machines for industrial automation assemblies featuring precise motor actuation and physical sensor gating.
+
+Ultimately, I want to leverage my background in mechanical engineering and robotics to build predictable, optimized, and highly capable autonomous systems that solve tangible, real-world engineering challenges.

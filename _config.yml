@@ -24,10 +24,9 @@ social:
     - https://github.com/JackCahill24
 
 author:
-  name: "John Cahill"
-  bio: "Robotics M.S. student at the University of Delaware. Hands-on experience developing autonomous navigation stacks, programming multi-DOF robotic arms, and designing custom mechatronic hardware."
-  location: "Stony Point, NY"
-  email: "johncahill4493@gmail.com"
+  name: "John (Jack) Cahill"
+  bio: "Robotics M.S. Student & Honors Mechanical Engineering Alumnus at the University of Delaware. Specializing in autonomous systems, control theory, and mechatronic design."
+  location: "Stony Point, NY / Newark, DE"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
@@ -67,6 +66,9 @@ exclude:
   - docs/
   - CHANGELOG.md
   - README.md
+  - _site/
+  - .jekyll-cache/
+  
 keep_files:
   - .git
 encoding: "utf-8"
@@ -95,11 +97,7 @@ plugins:
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
