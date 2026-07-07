@@ -41,6 +41,8 @@ Programmed a motion control framework for a 7-DOF KUKA LBR iiwa robotic arm to e
 
 Designed and evolved a multi-axis tactile helmet system for quadrupedal robots to enable active physical environment interaction. Developed the low-level firmware, micro-hardware networking, and data communication pipelines to continuously stream feedback from magnetic-based sensors that detect contact and applied forces via deformation-induced magnetic field changes. Expanded the system to feature a high-density, continuous sensing surface using a custom compressible lattice structure to map physical interactions across the robot's entire contact interface.
 
+**Reference:** Stergios Bachoumas, John Cahill and Panagiotis Artemiadis, “Head-On: Robust Tactile Force Sensing for Quadrupedal Interaction,” 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026 (to appear).
+
 <div style="clear: both;"></div>
 
 ---
